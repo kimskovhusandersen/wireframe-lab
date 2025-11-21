@@ -2,6 +2,8 @@
 
 A high-fidelity wireframe web application showcasing different responsive layouts and design patterns. Each page demonstrates a unique layout style, all fully responsive and optimized for mobile, tablet, and desktop viewing.
 
+> ⚡ Created in under 30 seconds with AI
+
 ## Features
 
 - **Multiple Layout Styles**: Six different pages with unique layouts:
