@@ -65,20 +65,32 @@ wireframe-lab/
 ### Landing Page
 Hero section with call-to-action buttons and feature grid showcasing all layouts.
 
+![Landing Page](./screenshots/landing.png)
+
 ### Dashboard
 Grid-based layout with statistics cards, charts, activity feeds, and quick actions.
+
+![Dashboard](./screenshots/dashboard.png)
 
 ### Blog
 Card-based article layout with filtering, featured images, and pagination.
 
+![Blog](./screenshots/blog.png)
+
 ### Portfolio
 Masonry-style gallery with varied aspect ratios and hover effects.
+
+![Portfolio](./screenshots/portfolio.png)
 
 ### About
 Sidebar navigation with main content area, team grid, and value propositions.
 
+![About](./screenshots/about.png)
+
 ### Contact
 Form-centered layout with contact information sidebar and responsive form fields.
+
+![Contact](./screenshots/contact.png)
 
 ## Technologies
 
